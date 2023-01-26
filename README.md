@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhasolee
-- 👀 I’m interested in front-end web development and graphic design.
-- 🌱 While I'm not coding, you will find me raising voice against contemporary social evils through my blogs or simply watching The Office. 
+- 👋 Hi, I’m @abhasolee, a freshman at Beloit College intending to major in Computer Science and Quantitative Economics.
+- 👀 I’m interested in GUI development, front-end web development, and graphic design.
+- 🌱 While I'm not coding, you will find me raising voice against contemporary social evils through my blogs or simply re-watching The Office or How I Met Your Mother. 
 
 
 <!---
